@@ -1,5 +1,5 @@
 #NOTICE
-#One of the first python programs I have made, I come here to entertain myself, I dont even want improve it...
+#One of the first python programs I have made, I come here to entertain myself, I dont even want improve it... :P
 #NOTICE
 
 

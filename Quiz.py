@@ -1,5 +1,5 @@
 #NOTICE
-#One of the first python programs I have made, I come here to entertain myself, I dont even want improve it...
+#One of the first python programs I have made, I come here to entertain myself, I dont even want improve it... :P
 #NOTICE
 
 #This is the Quiz program
@@ -34,7 +34,7 @@ else:
 
     
 print ("Welcome to the third quiz!")
-answer = raw_input ('What does 3+(4+2) equal? ')
+answer = str(raw_input('What does 3+(4+2) equal? '))
 if answer == "9":
     score = score + 4
     print ("Good job" ,name)
