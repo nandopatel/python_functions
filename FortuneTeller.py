@@ -1,4 +1,7 @@
-#One of the first python programs I have made, I come here to entertain myself, I dont even want to make it better...
+#NOTICE
+#One of the first python programs I have made, I come here to entertain myself, I dont even want improve it...
+#NOTICE
+
 
 #This imports the module that the program will need to run
 import random
