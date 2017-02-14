@@ -47,7 +47,7 @@ print ("Welcome to the fouth quiz!")
 answer = raw_input ('What does gravity do? pull or push. ')
 if answer == "pull":
     score = score + 4
-    print ("Good job soon you will be able to become a phisist" ,name)
+    print ("Good job soon you will be able to become a physicist" ,name)
 else:
     score = score - 2
 
